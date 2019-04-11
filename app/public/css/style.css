@@ -1,0 +1,79 @@
+#char-table {
+  margin-left: 200px;
+  padding-bottom: 200px;
+}
+
+#char-table-head {
+  font-size: 40px;
+  padding-top: 80px;
+}
+
+#char-form {
+  margin-left: 200px;
+
+  width: 100%;
+}
+
+.standard-text{
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.table-listing{
+  padding-bottom: 60px;
+  position: relative;
+  top: 29px;
+}
+
+.jumbotron {
+  background-color: #5DD1D8;
+  color: white;
+}
+
+#chirp-submit{
+  font-size: 17px;
+  font-weight: bold;
+}
+
+#test {
+  background-color: rgb(81, 115, 190);
+  color: white;
+}
+
+.chirp {
+  /* padding: 10px;
+  margin: 10px;
+  background-color: #e8f9ff; */
+}
+
+.cool-font {
+  /* font-family: Shrikhand, cursive;
+  font-size: 24px;
+  color: #1da1f2; */
+}
+
+.jumbotron {
+  /* font-family: Shrikhand, cursive;
+  color: white;
+  background-color: #1da1f2; */
+}
+
+input,
+textarea {
+  /* margin: 20px; */
+}
+
+.btn {
+  /* margin: 10px;
+  font-family: Shrikhand, cursive;
+  color: #1da1f2;
+  background-color: white;
+  border-color: #1da1f2;
+  border-style: solid;
+  border-width: 2px; */
+}
+
+p {
+  /* margin: 0;
+  font-size: 16px; */
+}

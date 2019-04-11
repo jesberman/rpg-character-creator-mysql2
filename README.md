@@ -1,1 +1,1 @@
-# rpg-character-creator-mysql2
+# rpg-character-creator-mysql
